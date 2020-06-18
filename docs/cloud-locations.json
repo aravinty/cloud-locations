@@ -1,9 +1,9 @@
 [
  {"key":"wsjc2","latitude":37.362598,"longitude":-121.929001,"name":"wsjc2"},
  {"key":"wnrt","latitude":35.7647018433,"longitude":140.386001587,"name":"wnrt"},
- {"key":"anrt1","latitude":35.7347018433,"longitude":140.418417,"name":"anrt1"},
- {"key":"anrt2","latitude":35.7647018433,"longitude":140.388417,"name":"anrt2"},
- {"key":"anrt3","latitude":35.849333,"longitude":140.386001587,"name":"anrt3"},
+ {"key":"anrt1","latitude":36.7347018433,"longitude":141.418417,"name":"anrt1"},
+ {"key":"anrt2","latitude":35.7647018433,"longitude":142.388417,"name":"anrt2"},
+ {"key":"anrt3","latitude":36.849333,"longitude":141.418417,"name":"anrt3"},
  {"key":"wsyd","latitude":-33.94609832763672,"longitude":151.177001953125,"name":"wsyd"},
  {"key":"wdfw2","latitude":32.896801,"longitude":-97.038002,"name":"wdfw2"},
  {"key":"afra3","latitude":50.033333,"longitude":8.570556,"name":"afra3"},
