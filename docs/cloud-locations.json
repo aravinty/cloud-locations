@@ -21,6 +21,6 @@
  {"key":"achm","latitude":39.983334,"longitude":-82.983330,"name":"achm"},
  {"key":"achm2","latitude":40.983334,"longitude":-83.983330,"name":"achm2"},
  {"key":"achm3","latitude":41.983334,"longitude":-82.983330,"name":"achm3"},
- {"key":"SFO","latitude":37.362598,"longitude":-121.929001,"name":"wsjc2"},
+ {"key":"SFO","latitude":37.362598,"longitude":-121.929001,"name":"SFO"},
  {"key":"default","latitude":0,"longitude":0,"name":"default"}
 ]
